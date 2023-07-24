@@ -30,7 +30,7 @@
     "url": "https://github.com/350478992/data-visualization-plus.git"
   },
   "dependencies": {
-    "@moniya/utils": "workspace:^1.0.0",
+    "@moniya/utils": "^1.0.0",
     "uuid": "^9.0.0"
   }
 }
