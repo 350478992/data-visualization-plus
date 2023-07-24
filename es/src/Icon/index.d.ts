@@ -1,4 +1,4 @@
-export declare const Icon: import("@moniya/utils/withinstall").SFCWithInstall<import("vue").DefineComponent<{
+export declare const Icon: import("@moniya/utils/dist/lib/withinstall").SFCWithInstall<import("vue").DefineComponent<{
     name: StringConstructor;
     prefix: {
         type: StringConstructor;

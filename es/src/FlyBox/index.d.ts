@@ -1,4 +1,4 @@
-export declare const FlyBox: import("@moniya/utils/withinstall").SFCWithInstall<import("vue").DefineComponent<{
+export declare const FlyBox: import("@moniya/utils/dist/lib/withinstall").SFCWithInstall<import("vue").DefineComponent<{
     lineColor: {
         type: StringConstructor;
         default: string;

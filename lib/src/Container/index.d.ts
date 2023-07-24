@@ -1,4 +1,4 @@
-export declare const Container: import("@moniya/utils/withinstall").SFCWithInstall<import("vue").DefineComponent<{
+export declare const Container: import("@moniya/utils/dist/lib/withinstall").SFCWithInstall<import("vue").DefineComponent<{
     options: {
         type: import("vue").PropType<Option>;
         default: () => void;

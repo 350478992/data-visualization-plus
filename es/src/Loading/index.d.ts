@@ -1,4 +1,4 @@
-export declare const Loading: import("@moniya/utils/withinstall").SFCWithInstall<import("vue").DefineComponent<{
+export declare const Loading: import("@moniya/utils/dist/lib/withinstall").SFCWithInstall<import("vue").DefineComponent<{
     width: {
         type: (StringConstructor | NumberConstructor)[];
         default: number;

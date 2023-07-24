@@ -1,4 +1,4 @@
-export declare const SvgLogo: import("@moniya/utils/withinstall").SFCWithInstall<import("vue").DefineComponent<{
+export declare const SvgLogo: import("@moniya/utils/dist/lib/withinstall").SFCWithInstall<import("vue").DefineComponent<{
     strokeWidth: {
         type: (StringConstructor | NumberConstructor)[];
         default: number;
