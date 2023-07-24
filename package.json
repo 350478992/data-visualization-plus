@@ -1,6 +1,6 @@
 {
   "name": "@moniya/data-visualization-plus",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "lib/index.js",
   "module": "es/index.mjs",
   "files": [
